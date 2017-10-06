@@ -1,12 +1,15 @@
 {
-    "name": "<name>",
+    "name": "Flow Chart",
     "license": "Public Domain",
-    "url": "<url>",
+    "url": "https://thenounproject.com/term/flow-chart/11550/",
     "author": {
-        "name": "<author>",
-        "url": "<author url>"
+        "name": "Stephen Copinger",
+        "url": "https://thenounproject.com/S-Copinger/"
     },
     "tags": [
-        "<tags>"
+        "Flow Chart",
+        "Logic",
+        "Programming",
+        "Science"
     ]
 }
